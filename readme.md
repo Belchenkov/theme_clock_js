@@ -1,8 +1,9 @@
 # Theme Clock
 
 > Theme Clock on Vanilla JS
-
-### [Demo]()
+> 
+### [Demo](http://theme-clock-ab.surge.sh)
+[![IMAGE ALT TEXT HERE](./uploads/screen.png)](https://skr.sh/v5pazPr2nEo?a)
 
 ### Get started
 
